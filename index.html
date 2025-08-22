@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chris Whendricks - Developer</title>
+    <!-- Use the Inter font from Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Tailwind CSS CDN for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        /* Custom styles for gradients and shadows */
+        .card-gradient {
+            background-image: linear-gradient(135deg, #f0f4f8, #e6e9ee);
+        }
+    </style>
+</head>
+<body class="bg-gray-100 text-gray-800">
+
+    <div class="container mx-auto px-4 py-12 sm:px-6 lg:px-8">
+        
+        <!-- Hero Section -->
+        <header class="text-center mb-16">
+            <h1 class="text-5xl md:text-6xl font-extrabold text-gray-900 leading-tight mb-4">
+                Chris Whendricks
+            </h1>
+            <p class="text-xl md:text-2xl text-gray-600 max-w-2xl mx-auto">
+                Developer, Systems Engineer, and Automation Enthusiast.
+            </p>
+        </header>
+
+        <!-- Main Content Section -->
+        <main class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            
+            <!-- About Me Card -->
+            <div class="card-gradient rounded-3xl shadow-lg p-8 transform transition-all duration-300 hover:scale-105 hover:shadow-2xl">
+                <h2 class="text-2xl font-bold mb-4 text-gray-900">About Me</h2>
+                <p class="text-gray-700 leading-relaxed">
+                    Hello! I'm a passionate developer with a background in system administration and cloud infrastructure. I love building things and optimizing workflows. My expertise lies in backend development, DevOps practices, and creating robust, scalable solutions.
+                </p>
+            </div>
+            
+            <!-- Projects Card -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 transform transition-all duration-300 hover:scale-105 hover:shadow-2xl">
+                <h2 class="text-2xl font-bold mb-4 text-gray-900">Projects</h2>
+                <ul class="space-y-4 text-gray-700">
+                    <li>
+                        <a href="#" class="text-blue-600 hover:text-blue-800 font-semibold transition-colors duration-200">
+                            Project One
+                        </a>
+                        <p class="text-sm text-gray-500 mt-1">A brief description of your project.</p>
+                    </li>
+                    <li>
+                        <a href="#" class="text-blue-600 hover:text-blue-800 font-semibold transition-colors duration-200">
+                            Project Two
+                        </a>
+                        <p class="text-sm text-gray-500 mt-1">A brief description of your project.</p>
+                    </li>
+                </ul>
+            </div>
+            
+            <!-- Dotfiles Card - This is where you can link to your other repo -->
+            <div class="bg-white rounded-3xl shadow-lg p-8 transform transition-all duration-300 hover:scale-105 hover:shadow-2xl">
+                <h2 class="text-2xl font-bold mb-4 text-gray-900">Dotfiles & Setup</h2>
+                <p class="text-gray-700 leading-relaxed mb-4">
+                    My `.dotfiles` repo contains my personal configuration for shells, editors, and other tools. Take a look at my setup and scripts.
+                </p>
+                <a href="https://github.com/chriswhendricks/dotfiles" target="_blank" class="inline-block bg-gray-800 text-white font-semibold py-2 px-6 rounded-full shadow-md hover:bg-gray-700 transition-colors duration-200">
+                    Explore My Dotfiles
+                </a>
+            </div>
+            
+        </main>
+        
+        <!-- Footer -->
+        <footer class="text-center mt-16 text-gray-500">
+            <p>&copy; 2025 Chris Whendricks. All rights reserved.</p>
+        </footer>
+        
+    </div>
+
+</body>
+</html>
