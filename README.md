@@ -1,48 +1,62 @@
-
-
-<div id="header" align="center">
-  <img src="ProfileBanner.png" />  
+<div align="center">
+  <img src="assets/profile-header-2026.png" alt="Chris Hendricks - Senior Lead Software Engineer, Developer Tools, Cloud Systems" width="100%" />
 </div>
-<div id="badges" align="center">
-  <a href="https://LinkedIn.com/ChrisWHendricks">
-    <img src="https://img.shields.io/badge/ChrisWHendricks-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  
-  <a href="https://twitter.com/chriswhendricks">
-    <img src="https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Ftwitter.com%2Fchriswhendricks" alt="Twitter Badge"/>
+
+<p align="center">
+  <a href="https://chriswhendricks.com">
+    <img src="https://img.shields.io/badge/Website-chriswhendricks.com-2f81f7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/chriswhendricks">
+    <img src="https://img.shields.io/badge/LinkedIn-ChrisWHendricks-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <a href="https://x.com/ChrisWHendricks">
+    <img src="https://img.shields.io/badge/X-@ChrisWHendricks-111111?style=for-the-badge&logo=x&logoColor=white" alt="X profile badge" />
+  </a>
+</p>
+
+## About
+
+I'm Chris Hendricks, a Senior Lead Software Engineer in Michigan. I build pragmatic systems, developer tools, and cloud-backed products with an emphasis on clear architecture, useful automation, and software that teams can actually operate.
+
+Most of my work sits around .NET, TypeScript, Python, AWS, Git workflows, and the tooling that makes engineering teams faster. I also like keeping a foot in hands-on product work so leadership decisions stay connected to real implementation details.
+
+Away from the keyboard, I spend time with family, get out on the water when Michigan weather cooperates, and follow football closely enough to have opinions.
+
+## Selected Work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [DevShelf](https://github.com/ChrisWHendricks/devshelf) | Local dashboard for browsing git repositories, pull requests, and Markdown documentation without a cloud service or database. | Python, FastAPI, Alpine.js |
+| [dotfiles](https://github.com/ChrisWHendricks/dotfiles) | Cross-platform dotfiles manager with safe symlink handling, tool installation, checks, dry runs, and machine bootstrap support. | Python, Click, Shell |
+| [Dadonomics v2](https://github.com/ChrisWHendricks/hendricks-money) | Personal budget management app with local mock mode, AWS-backed environments, account tracking, budgets, goals, and CSV import. | React, TypeScript, AWS Amplify |
+
+## Stats
+
+<div align="center">
+  <a href="https://github.com/ChrisWHendricks">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChrisWHendricks&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&title_color=4ec9d8&text_color=c9d1d9&icon_color=f7b267" alt="Chris Hendricks GitHub stats" />
+  </a>
+  <a href="https://github.com/ChrisWHendricks">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWHendricks&layout=compact&hide_border=true&theme=transparent&title_color=4ec9d8&text_color=c9d1d9" alt="Chris Hendricks top public languages" />
   </a>
 </div>
 
-### About Me 
-
-<div id="header">
-  <img src="https://chriswhendricks.com/wp-content/uploads/2019/09/20190618_134037212_iOS-e1568518614227.jpg" />  
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ChrisWHendricks&theme=tokyonight&hide_border=true&background=00000000&stroke=4ec9d8&ring=f7b267&fire=f7b267&currStreakLabel=c9d1d9" alt="Chris Hendricks GitHub contribution streak" />
+  </a>
 </div>
 
-My name is Chris Hendricks. I live in the Great State of Michigan were I have lived my entire life. I have been writing software in some capacity for more than 20 years.
+## Stack
 
-I first started dabbling in the art of programming when I was about 12 years old on my Commodore 64. 
-In High School I took some Turbo Pascal and C classes, and it was during this time that I realized I had a love for coding and that this was what I was going to do with my life.
-
-I am 43 years old and have been married to my wife Pam for almost 17 years.  
-I have 5 Children who keep me quite busy: Maggie(19), Luke(15), Alexandria(11), Liliana(9), Evangeline(2)
-
-In my spare time I like to Boat, Wakeboard, Watch Football, and spend time with my family.
-
-
-### 🔥 My Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chriswhendricks&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWHendricks&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### :hammer_and_wrench: Languages and Tools :  
-
-<div style="color: red;">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" color="white"  title=".NET" **alt=".NET" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="CSHARP" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="C#" **alt="CSHARP" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java Script" **alt="JS" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
- 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=csharp&logoColor=white" alt="C# badge" />
+  <img src="https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React badge" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI badge" />
+  <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS badge" />
+  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
+  <img src="https://img.shields.io/badge/Shell-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell badge" />
+</p>
