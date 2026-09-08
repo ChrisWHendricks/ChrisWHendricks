@@ -24,15 +24,33 @@ Away from the keyboard, I'm a father of five, spend as much time as I can on Lak
 
 > *I find your lack of context disturbing.*
 
+## Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Applied_AI-111827?style=for-the-badge" alt="Applied AI badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI badge" />
+  <img src="https://img.shields.io/badge/LLM_Systems-0f766e?style=for-the-badge" alt="LLM Systems badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-1d4ed8?style=for-the-badge" alt="AI Agents badge" />
+  <img src="https://img.shields.io/badge/RAG-7c3aed?style=for-the-badge" alt="RAG badge" />
+  <img src="https://img.shields.io/badge/MCP-b45309?style=for-the-badge" alt="MCP badge" />
+  <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS badge" />
+</p>
+
+## Featured Project: Ghostwheel
+
+**Ghostwheel** is my local-first AI companion project, exploring how AI can become a calm, ambient presence rather than just another app. It brings together conversational AI, memory, voice, presence, task and knowledge workflows, and physical-device experimentation across desktop, Raspberry Pi, and ESP32 hardware.
+
+The project is intentionally privacy-minded and local-first where practical, with a distributed architecture spanning a Tauri desktop application, Rust services, local models and cloud AI, voice interfaces, sensors, displays, and ambient hardware. The repository is currently private while the architecture evolves.
+
 ## Selected Work
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [DevShelf](https://github.com/ChrisWHendricks/devshelf) | Local dashboard for browsing git repositories, pull requests, and Markdown documentation without a cloud service or database. | Python, FastAPI, Alpine.js |
-| [dotfiles](https://github.com/ChrisWHendricks/dotfiles) | Cross-platform dotfiles manager with safe symlink handling, tool installation, checks, dry runs, and machine bootstrap support. | Python, Click, Shell |
 | [Dadonomics v2](https://github.com/ChrisWHendricks/hendricks-money) | Personal budget management app with local mock mode, AWS-backed environments, account tracking, budgets, goals, and CSV import. | React, TypeScript, AWS Amplify |
+| [dotfiles](https://github.com/ChrisWHendricks/dotfiles) | Cross-platform dotfiles manager with safe symlink handling, tool installation, checks, dry runs, and machine bootstrap support. | Python, Click, Shell |
 
-## Stats
+## GitHub
 
 <div align="center">
   <a href="https://github.com/ChrisWHendricks">
@@ -43,13 +61,7 @@ Away from the keyboard, I'm a father of five, spend as much time as I can on Lak
   </a>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ChrisWHendricks&theme=tokyonight&hide_border=true&background=00000000&stroke=4ec9d8&ring=f7b267&fire=f7b267&currStreakLabel=c9d1d9" alt="Chris Hendricks GitHub contribution streak" />
-  </a>
-</div>
-
-## Stack
+## Engineering Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=csharp&logoColor=white" alt="C# badge" />
@@ -58,6 +70,7 @@ Away from the keyboard, I'm a father of five, spend as much time as I can on Lak
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React badge" />
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI badge" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust badge" />
   <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS badge" />
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
   <img src="https://img.shields.io/badge/Shell-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell badge" />
