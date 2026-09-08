@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-header-2026.png" alt="Chris Hendricks - Senior Lead Software Engineer, Developer Tools, Cloud Systems" width="100%" />
+  <img src="assets/profile-header-2026.png" alt="Chris Hendricks - AI Engineer, Public Safety Technology, Systems and Tools" width="100%" />
 </div>
 
 <p align="center">
@@ -16,11 +16,13 @@
 
 ## About
 
-I'm Chris Hendricks, a Senior Lead Software Engineer in Michigan. I build pragmatic systems, developer tools, and cloud-backed products with an emphasis on clear architecture, useful automation, and software that teams can actually operate.
+I'm Chris Hendricks, an AI Engineer in Michigan with more than two decades in public safety technology. I build practical AI systems, developer tools, and cloud-backed products with an emphasis on useful context, clear architecture, and technology that makes a real-world difference.
 
-Most of my work sits around .NET, TypeScript, Python, AWS, Git workflows, and the tooling that makes engineering teams faster. I also like keeping a foot in hands-on product work so leadership decisions stay connected to real implementation details.
+My work spans applied AI, agentic systems, .NET, TypeScript, Python, AWS, Git workflows, and the tooling that helps engineering teams move faster without losing sight of the people and problems behind the software.
 
-Away from the keyboard, I spend time with family, get out on the water when Michigan weather cooperates, and follow football closely enough to have opinions.
+Away from the keyboard, I'm a father of five, spend as much time as I can on Lake St. Clair, fish when the opportunity presents itself, and keep experimenting with personal projects like Ghostwheel.
+
+> *I find your lack of context disturbing.*
 
 ## Selected Work
 
