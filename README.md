@@ -1,77 +1,56 @@
-<div align="center">
-  <img src="assets/profile-header-2026.png" alt="Chris Hendricks - AI Engineer, Public Safety Technology, Systems and Tools" width="100%" />
-</div>
+![Chris Hendricks — Applied AI, Public Safety Technology](assets/profile-header-2026.png)
 
-<p align="center">
-  <a href="https://chriswhendricks.com">
-    <img src="https://img.shields.io/badge/Website-chriswhendricks.com-2f81f7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/chriswhendricks">
-    <img src="https://img.shields.io/badge/LinkedIn-ChrisWHendricks-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-  <a href="https://x.com/ChrisWHendricks">
-    <img src="https://img.shields.io/badge/X-@ChrisWHendricks-111111?style=for-the-badge&logo=x&logoColor=white" alt="X profile badge" />
-  </a>
-</p>
+<img align="right" width="220" src="assets/profile-avatar-2026.png" alt="Chris Hendricks" />
 
-## About
+**Senior Lead Software Engineer at [Tyler Technologies](https://github.com/tyler-technologies).**
 
-I'm Chris Hendricks, an AI Engineer in Michigan with more than two decades in public safety technology. I build practical AI systems, developer tools, and cloud-backed products with an emphasis on useful context, clear architecture, and technology that makes a real-world difference.
+Two decades in public safety technology — which is a long time to spend making sure a screen loads correctly for someone having the worst day of their life. It's excellent training. Nothing teaches you to distrust clever architecture faster than a dispatcher on the phone at 2am.
 
-My work spans applied AI, agentic systems, .NET, TypeScript, Python, AWS, Git workflows, and the tooling that helps engineering teams move faster without losing sight of the people and problems behind the software.
+These days most of my work is applied AI and agentic systems: LLM pipelines, retrieval that retrieves the right thing, MCP servers, and the developer tooling that makes a team faster without a rewrite. I care more about what survives a Tuesday in production than what demos well on a Thursday.
 
-Away from the keyboard, I'm a father of five, spend as much time as I can on Lake St. Clair, fish when the opportunity presents itself, and keep experimenting with personal projects like Ghostwheel.
+The hat is not ironic. The shirt is load-bearing.
 
 > *I find your lack of context disturbing.*
 
-## Current Focus
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Applied_AI-111827?style=for-the-badge" alt="Applied AI badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI badge" />
-  <img src="https://img.shields.io/badge/LLM_Systems-0f766e?style=for-the-badge" alt="LLM Systems badge" />
-  <img src="https://img.shields.io/badge/AI_Agents-1d4ed8?style=for-the-badge" alt="AI Agents badge" />
-  <img src="https://img.shields.io/badge/RAG-7c3aed?style=for-the-badge" alt="RAG badge" />
-  <img src="https://img.shields.io/badge/MCP-b45309?style=for-the-badge" alt="MCP badge" />
-  <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS badge" />
-</p>
+## Currently
 
-## Featured Project: Ghostwheel
+- **Ghostwheel** — a local-first AI companion. Memory, voice, presence, ambient hardware. Deliberately not another chat window.
+- **Agentic tooling** — MCP servers and retrieval layers, because most "the model is dumb" problems are context problems.
+- **Small sharp tools** — DevShelf, dotfiles, and whatever else makes my own week quieter.
 
-**Ghostwheel** is my local-first AI companion project, exploring how AI can become a calm, ambient presence rather than just another app. It brings together conversational AI, memory, voice, presence, task and knowledge workflows, and physical-device experimentation across desktop, Raspberry Pi, and ESP32 hardware.
+## Ghostwheel
 
-The project is intentionally privacy-minded and local-first where practical, with a distributed architecture spanning a Tauri desktop application, Rust services, local models and cloud AI, voice interfaces, sensors, displays, and ambient hardware. The repository is currently private while the architecture evolves.
+An experiment in AI as a calm, ambient presence rather than an app you open. Conversational AI with real memory, voice and presence, task and knowledge workflows — spread across a Tauri desktop app, Rust services, local models alongside cloud AI, and a rotating cast of Raspberry Pi and ESP32 boards in various states of half-solder. Privacy-minded and local-first wherever it's practical, which is more often than the industry admits. Private repo while the architecture argues with itself.
 
-## Selected Work
+## Selected work
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [DevShelf](https://github.com/ChrisWHendricks/devshelf) | Local dashboard for browsing git repositories, pull requests, and Markdown documentation without a cloud service or database. | Python, FastAPI, Alpine.js |
-| [Dadonomics v2](https://github.com/ChrisWHendricks/hendricks-money) | Personal budget management app with local mock mode, AWS-backed environments, account tracking, budgets, goals, and CSV import. | React, TypeScript, AWS Amplify |
-| [dotfiles](https://github.com/ChrisWHendricks/dotfiles) | Cross-platform dotfiles manager with safe symlink handling, tool installation, checks, dry runs, and machine bootstrap support. | Python, Click, Shell |
+| [**DevShelf**](https://github.com/ChrisWHendricks/devshelf) | Local dashboard for git repos, pull requests, and Markdown docs. No cloud service, no database, no subscription. | Python · FastAPI · Alpine |
+| [**Dadonomics v2**](https://github.com/ChrisWHendricks/hendricks-money) | Budgeting for a household of seven. Accounts, budgets, goals, CSV import, and a local mock mode so I can break it safely. | React · TypeScript · Amplify |
+| [**dotfiles**](https://github.com/ChrisWHendricks/dotfiles) | Cross-platform machine bootstrap with safe symlinks, dry runs, and checks that fail loudly instead of politely. | Python · Click · Shell |
+
+## Stack
+
+**AI** — LLM systems · agents · RAG · MCP · OpenAI & Anthropic APIs · local models
+**Build** — C# · .NET · TypeScript · React · Python · FastAPI · Rust · Tauri
+**Run** — AWS · Amplify · Git workflows · shell · Raspberry Pi & ESP32
 
 ## GitHub
 
-<div align="center">
-  <a href="https://github.com/ChrisWHendricks">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChrisWHendricks&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&title_color=4ec9d8&text_color=c9d1d9&icon_color=f7b267" alt="Chris Hendricks GitHub stats" />
-  </a>
-  <a href="https://github.com/ChrisWHendricks">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWHendricks&layout=compact&hide_border=true&theme=transparent&title_color=4ec9d8&text_color=c9d1d9" alt="Chris Hendricks top public languages" />
-  </a>
-</div>
+<a href="https://github.com/ChrisWHendricks"><img height="165" src="https://github-readme-stats.vercel.app/api?username=ChrisWHendricks&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=9184d9&text_color=b9bac6&icon_color=9184d9" alt="GitHub stats" /></a>
+<a href="https://github.com/ChrisWHendricks"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWHendricks&layout=compact&hide_border=true&bg_color=00000000&title_color=9184d9&text_color=b9bac6" alt="Top languages" /></a>
 
-## Engineering Stack
+*Most of the interesting work lives behind a private repo or a customer's firewall, so grade the charts accordingly.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=csharp&logoColor=white" alt="C# badge" />
-  <img src="https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React badge" />
-  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI badge" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust badge" />
-  <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS badge" />
-  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
-  <img src="https://img.shields.io/badge/Shell-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell badge" />
-</p>
+---
+
+## Away from the keyboard
+
+Father of five, which is its own distributed system — eventual consistency, no rollback. As much time on the water as Michigan weather allows, a workbench of half-finished hardware, and kids who volunteer as the harshest QA available.
+
+Faith and family come first here, and the ordering shows up in what I choose to build: software for people on the worst day of their lives, made by someone who thinks that work is worth doing carefully.
+
+[chriswhendricks.com](https://chriswhendricks.com) · [LinkedIn](https://www.linkedin.com/in/chriswhendricks) · [X](https://x.com/ChrisWHendricks)
